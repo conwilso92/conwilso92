@@ -1,6 +1,6 @@
 # Hey, I'm Connor
 
-U.S. Army veteran transitioning into IT, focused on networking and cybersecurity. CompTIA A+ certified, currently studying for Network+. I hold an active Secret clearance.
+U.S. Army veteran transitioning into IT, focused on networking and cybersecurity. CompTIA A+ certified, currently studying for Network+
 
 I build things to learn — from flashcard apps to home lab infrastructure. Everything here is part of that process.
 
