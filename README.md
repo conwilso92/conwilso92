@@ -1,6 +1,6 @@
 # Hey, I'm Connor
 
-U.S. Army veteran transitioning into IT, focused on networking and cybersecurity. CompTIA A+ certified, currently studying for Network+
+I'm a U.S. Army veteran transitioning into IT, focused on networking and cybersecurity. This GitHub is designed to share practical study tools, document my home lab, and build projects that reinforce what I'm learning along the way.
 
 I build things to learn — from flashcard apps to home lab infrastructure. Everything here is part of that process.
 
@@ -22,13 +22,13 @@ Interactive flashcard apps I built for CompTIA exam prep. Free to use in any bro
 
 ## Home Lab
 
-*Coming soon — documentation of my home infrastructure including TrueNAS (60TB ZFS RAIDZ1), Tailscale VPN, Cloudflare Tunnel, containerized services, and cybersecurity lab with Kali Linux and pfSense.*
+Built and manage a self-hosted TrueNAS server with 60TB ZFS RAIDZ1 storage, Tailscale VPN, Cloudflare Tunnel, and containerized services. Currently expanding documentation for networking, remote access, DNS troubleshooting, and service deployment.
 
 ## Certifications
 
-- CompTIA A+ (Core 1 & Core 2) — Passed 2026
-- CompTIA Network+ — In Progress
-- EMT-B / NREMT — Active
+- CompTIA A+
+- CompTIA Network+ (In Progress)
+- EMT-B / NREMT (Active)
 
 ## Connect
 
