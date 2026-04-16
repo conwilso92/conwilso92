@@ -18,7 +18,7 @@ Interactive flashcard apps I built for CompTIA exam prep. Free to use in any bro
 
 | Guide | Description |
 |-------|-------------|
-| [Network+ Study Guide](https://github.com/conwilso92/Network-Plus-Study-Guide) | Comprehensive reference covering all 5 exam domains, synthesized from 23 chapters |
+| [Network+ Study Guide](https://conwilso92.github.io/Network-Plus-Study-Guide) | Comprehensive reference covering all 5 exam domains, synthesized from 23 chapters |
 
 ## Home Lab
 
