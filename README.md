@@ -28,7 +28,7 @@ Built and manage a self-hosted TrueNAS server with 60TB ZFS RAIDZ1 storage, Tail
 
 - CompTIA A+
 - CompTIA Network+ (In Progress)
-- EMT-B / NREMT (Active)
+- NREMT EMT-B (Active)
 
 ## Connect
 
