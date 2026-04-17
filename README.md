@@ -11,14 +11,14 @@ Interactive flashcard apps I built for CompTIA exam prep. Free to use in any bro
 | Exam | Cards | Link |
 |------|-------|------|
 | A+ Core 1 (220-1201) | 164 cards | [Use the app](https://conwilso92.github.io/comptia-a-core1-flashcards) |
-| A+ Core 2 (220-1202) | 144 cards | [Use the app](https://conwilso92.github.io/CompTIA-core2-flashcards) |
-| Network+ (N10-009) | 171 cards | [Use the app](https://conwilso92.github.io/CompTIA-Network-Plus-flashcards) |
+| A+ Core 2 (220-1202) | 144 cards | [Use the app](https://conwilso92.github.io/comptia-a-core2-flashcards) |
+| Network+ (N10-009) | 171 cards | [Use the app](https://conwilso92.github.io/comptia-networkplus-flashcards) |
 
 ## Study Guides
 
 | Guide | Description |
 |-------|-------------|
-| [Network+ Study Guide](https://conwilso92.github.io/Network-Plus-Study-Guide) | Comprehensive reference covering all 5 exam domains, synthesized from 23 chapters |
+| [Network+ Study Guide](https://conwilso92.github.io/networkplus-study-guide) | Comprehensive reference covering all 5 exam domains, synthesized from 23 chapters |
 
 ## Home Lab
 
