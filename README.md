@@ -24,6 +24,8 @@ Interactive flashcard apps I built for CompTIA exam prep. Free to use in any bro
 
 Built and manage a self-hosted TrueNAS server with 60TB ZFS RAIDZ1 storage, Tailscale VPN, Cloudflare Tunnel, and containerized services. Currently expanding documentation for networking, remote access, DNS troubleshooting, and service deployment.
 
+- [Homelab Infrastructure Documentation] (https://github.com/conwilso92/homelab-infrastructure-docs)
+
 ## Certifications
 
 - CompTIA A+
