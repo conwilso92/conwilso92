@@ -19,7 +19,7 @@ Interactive flashcard apps I built for CompTIA exam prep. Free to use in any bro
 
 | Guide | Description |
 |-------|-------------|
-| [A+ Core 1 Study Guide](https://conwilso92.github.io/a-core1-study-guide)) | Comprehensive reference covering all 5 exam domains, synthesized from 16 chapters |
+| [A+ Core 1 Study Guide](https://conwilso92.github.io/a-core1-study-guide) | Comprehensive reference covering all 5 exam domains, synthesized from 16 chapters |
 | [Network+ Study Guide](https://conwilso92.github.io/networkplus-study-guide) | Comprehensive reference covering all 5 exam domains, synthesized from 23 chapters |
 | [Server+ Study Guide](https://conwilso92.github.io/serverplus-study-guide) | Comprehensive reference covering all 5 exam domains, synthesized from 12 chapters |
 
