@@ -36,8 +36,12 @@ Built and manage a self-hosted TrueNAS server with 60TB ZFS RAIDZ1 storage, Tail
 ## Certifications
 
 - CompTIA A+
+- CompTIA Network+
 - CompTIA Security+
 - CompTIA Server+
+- CompTIA CIOS
+- CompTIA CNIP
+- CompTIA CSIS
 - NREMT EMT-B
 
 ## Connect
