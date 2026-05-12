@@ -34,7 +34,7 @@ Built and manage a self-hosted TrueNAS server with 60TB ZFS RAIDZ1 storage, Tail
 
 - [Homelab Infrastructure Documentation](https://github.com/conwilso92/homelab-infrastructure-docs)
 
-## Certifications
+## Earned Certifications
 
 - CompTIA A+
 - CompTIA Network+
