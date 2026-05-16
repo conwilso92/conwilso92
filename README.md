@@ -16,6 +16,7 @@ Interactive flashcard apps I built for CompTIA exam prep. Free to use in any bro
 | Server+ (SK0-005) | 201 cards | [Use the app](https://conwilso92.github.io/comptia-serverplus-flashcards/) |
 | Security+ (SY0-701) | 257 cards | [Use the app](https://conwilso92.github.io/comptia-securityplus-flashcards/) |
 | Linux+ (XK0-006) | 170 cards | [Use the app](https://conwilso92.github.io/comptia-linuxplus-flashcards/) |
+| CySa+ (CS0-003) | 167 cards | [Use the app](https://conwilso92.github.io/comptia-cysaplus-flashcards/) |
 
 ## Study Guides
 
